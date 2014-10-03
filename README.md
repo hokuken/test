@@ -5,4 +5,5 @@ This repository does not have business code.
 
 ## Concept
 Test is out of concept.
+Test is ideal.
 
